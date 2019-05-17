@@ -31,9 +31,12 @@ Model View View Model (MVVM)
 3. Proper Indentation
 4. Proper Naming Conventions
 
-# Video WalkThrough
+# Screen Shots
 
-
+<img src="https://user-images.githubusercontent.com/41834623/57946222-88472880-78fb-11e9-831c-83053b13214c.jpg" width="25%" height="20%">  <img src="https://user-images.githubusercontent.com/41834623/57946137-56ce5d00-78fb-11e9-9b4b-b20a035b96e9.jpg" width="25%" height="20%"> 
+<img src="https://user-images.githubusercontent.com/41834623/57946377-dfe59400-78fb-11e9-8c99-31d7739f48c1.JPG" width="25%" height="20%">   <img src="https://user-images.githubusercontent.com/41834623/57945472-ae6bc900-78f9-11e9-8002-a6806fc07374.jpg" width="25%" height="20%"> 
+|<img src="https://user-images.githubusercontent.com/41834623/57946423-f855ae80-78fb-11e9-8e25-1818302d636f.jpg" width="25%" height="20%">   <img src="https://user-images.githubusercontent.com/41834623/57946324-c5131f80-78fb-11e9-8635-1cc608b28562.jpg" width="25%" height="20%"> 
+|<img src="https://user-images.githubusercontent.com/41834623/57946455-0efc0580-78fc-11e9-8493-575c90a65f00.png" width="25%" height="20%">   <img src="https://user-images.githubusercontent.com/41834623/57946525-32bf4b80-78fc-11e9-9c10-fbb794192db9.jpg" width="25%" height="20%"> 
 
 # License
 Copyright 2019 Utsaha Joshi
