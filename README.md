@@ -4,7 +4,7 @@ UNIQ TO-DO is an android app that allows a user to build a todo list including a
 ###### Submitted by: Utsaha Joshi
 
 # Features
-1. User Experience Points
+1. User Experience Points for completing each task
 2. Speech to Text for adding description of the task
 3. Local Notification 
 4. Splash Screen
